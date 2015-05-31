@@ -1,0 +1,2 @@
+# -script-async-src-pagead2.googlesyndication.com-pagead-js-adsbygoogle.js-script----https-
+&lt;script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">&lt;/script> &lt;!-- https://plus.google.com/u/0/b/101812149164848487236/101812149164848487236/admin/ --> &lt;ins class="adsbygoogle"      style="display:block"      data-ad-client="ca-pub-3726945599465236"      data-ad-slot="1286368822"      data-ad-format="auto">&lt;/ins> &lt;script> (adsbygoogle = window.adsbygoogle || []).push({}); &lt;/script>
